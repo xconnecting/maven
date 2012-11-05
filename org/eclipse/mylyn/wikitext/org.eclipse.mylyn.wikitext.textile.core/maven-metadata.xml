@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.mylyn.wikitext</groupId>
+  <artifactId>org.eclipse.mylyn.wikitext.textile.core</artifactId>
+  <version>1.6.0.I20111208-0011</version>
+  <versioning>
+    <versions>
+      <version>1.6.0.I20111208-0011</version>
+    </versions>
+    <lastUpdated>20121105021311</lastUpdated>
+  </versioning>
+</metadata>
