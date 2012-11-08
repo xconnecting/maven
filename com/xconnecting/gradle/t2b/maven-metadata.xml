@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.xconnecting.gradle.gist</groupId>
-  <artifactId>gist</artifactId>
+  <groupId>com.xconnecting.gradle</groupId>
+  <artifactId>t2b</artifactId>
   <version>0.1-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20121108074612</lastUpdated>
+    <lastUpdated>20121108074629</lastUpdated>
   </versioning>
 </metadata>

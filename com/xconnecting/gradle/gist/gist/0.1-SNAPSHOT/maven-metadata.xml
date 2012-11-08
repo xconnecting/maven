@@ -4,9 +4,10 @@
   <artifactId>gist</artifactId>
   <version>0.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20121108.074612</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20121108074612</lastUpdated>
   </versioning>
 </metadata>
